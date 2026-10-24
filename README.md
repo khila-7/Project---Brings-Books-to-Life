@@ -1,6 +1,6 @@
 # Bring Books to Life 🎭
 
-The Week 2 project for **Agentic AI for Developers**. Chat with a character from a book —
+**Agentic AI for Developers**. Chat with a character from a book —
 they stay **in character**, answer **grounded in the text** (Agentic RAG), and **remember**
 your conversation.
 
