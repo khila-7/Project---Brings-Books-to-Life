@@ -9,7 +9,7 @@ Groq has no embeddings API, so retrieval runs entirely on your machine. Ships wi
 public-domain **Sherlock Holmes** source; upload any `.txt` to ground the current character in a
 new source (keeps their persona). For a genuinely new character, add a `Persona` in `personas.py`.
 
-## What it demonstrates (Week 2 skills)
+## What it demonstrates 
 - **Agentic RAG** — the agent *decides when* to search the book (a retrieval tool), not a fixed pipeline
 - **Just-enough RAG** — chunk → embed → FAISS vector store → top-k retrieval
 - **Memory** — a LangGraph checkpointer (thread per session) so it remembers earlier turns
